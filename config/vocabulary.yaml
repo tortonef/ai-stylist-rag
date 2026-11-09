@@ -1,14 +1,14 @@
 # Deterministic query vocabulary: free-text phrases -> schema values. Matching is case-insensitive,
 # on whole words, longest phrase first. Edit here to tune the parser; no code changes needed.
 
-# Approved occasion synonym map (see the shared portfolio rules), plus plural forms.
+# Approved occasion synonym map (see the shared portfolio rules), plus plurals and the enum words.
 occasions:
   ceremony: [wedding, weddings, ceremony, ceremonies]
   work: [office, work]
-  casual: [weekend, weekends, everyday]
-  evening: [night out, party, parties, dinner, dinners]
-  sport: [gym, running]
-  travel: [trip, trips, holiday, holidays]
+  casual: [weekend, weekends, everyday, casual]
+  evening: [night out, party, parties, dinner, dinners, evening, evenings]
+  sport: [gym, running, sport]
+  travel: [trip, trips, holiday, holidays, travel]
 
 genders:
   women: [women, woman, "women's", womens, ladies, her, she, female]

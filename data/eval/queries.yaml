@@ -1,0 +1,52 @@
+# Evaluation queries with the constraints a human stylist would expect (NOT what the parser returns:
+# parser misses therefore show up as constraint violations). Omitted keys mean "no constraint".
+# look: true  -> an occasion question that should get a complete outfit within the budget
+# look: false -> no complete outfit exists within the budget; individual items are expected instead
+- id: q01
+  text: What should I wear to a country wedding in May, under €300?
+  expect: {occasions: [ceremony], season: SS, budget: 300, look: true}
+- id: q02
+  text: A men's outfit for the office, under €450
+  expect: {occasions: [work], gender: men, budget: 450, look: true}
+- id: q03
+  text: Something for a night out, she likes black
+  expect: {occasions: [evening], gender: women, look: true}
+- id: q04
+  text: What to pack for a summer holiday? Women's, under €250
+  expect: {occasions: [travel], season: SS, gender: women, budget: 250, look: true}
+- id: q05
+  text: Running shoes under €150
+  expect: {occasions: [sport], categories: [shoes], budget: 150}
+- id: q06
+  text: A warm jacket for a winter trip
+  expect: {occasions: [travel], categories: [outerwear], season: AW}
+- id: q07
+  text: Linen shirt for him
+  expect: {gender: men, categories: [shirt]}
+- id: q08
+  text: Women's dress for a wedding, less than 200 euros
+  expect: {occasions: [ceremony], gender: women, categories: [dress], budget: 200}
+- id: q09
+  text: Weekend look for him under €250
+  expect: {occasions: [casual], gender: men, budget: 250, look: true}
+- id: q10
+  text: Office shoes for her below 150 EUR
+  expect: {occasions: [work], gender: women, categories: [shoes], budget: 150}
+- id: q11
+  text: Dinner party outfit for a man, under €500
+  expect: {occasions: [evening], gender: men, budget: 500, look: true}
+- id: q12
+  text: A bag for a business trip
+  expect: {occasions: [travel], categories: [bag]}
+- id: q13
+  text: Gym outfit for women under €250
+  expect: {occasions: [sport], gender: women, budget: 250, look: true}
+- id: q14
+  text: Something to wear to a christening
+  expect: {occasions: [ceremony]}
+- id: q15
+  text: Men's wedding outfit under €250
+  expect: {occasions: [ceremony], gender: men, budget: 250, look: false}
+- id: q16
+  text: A sweater for autumn at the office, max €150
+  expect: {occasions: [work], categories: [knitwear], season: AW, budget: 150}
