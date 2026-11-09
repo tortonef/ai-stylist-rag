@@ -1,0 +1,21 @@
+# Every key can be overridden with an environment variable:
+# AI_STYLIST_<SECTION>_<KEY>, e.g. AI_STYLIST_OLLAMA_MODEL=qwen3.5:9b
+embedding:
+  id: sentence-transformers/all-MiniLM-L6-v2
+  revision: 1110a243fdf4706b3f48f1d95db1a4f5529b4d41  # pinned for reproducibility
+retrieval:
+  top_k: 6              # products shown (and passed to the LLM) for a single-item question
+  look_candidates: 5    # best items per outfit slot tried when completing the look
+ollama:
+  host: http://localhost:11434
+  model: qwen3.5:4b
+  timeout_s: 300        # the first call loads the model into RAM, which can take a while on CPU
+  temperature: 0.3
+paths:
+  catalog: data/catalog.json
+  schema: schema/product.schema.json
+  vocabulary: config/vocabulary.yaml
+  thumbnails: data/thumbnails
+  cache: .cache          # embedding model and index (gitignored)
+  eval_queries: data/eval/queries.yaml
+  eval_report: docs/eval_results.md

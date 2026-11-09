@@ -1,0 +1,7 @@
+# torch is installed first by setup.ps1 / setup.sh from the CPU-only index (see README).
+torch==2.15.0
+transformers==5.22.1
+numpy==2.5.4
+streamlit==1.67.0
+pyyaml==6.0.3
+jsonschema==4.26.0
