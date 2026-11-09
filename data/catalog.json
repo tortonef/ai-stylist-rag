@@ -1,0 +1,1977 @@
+[
+  {
+    "sku": "AN-0001",
+    "name": "Linen Midi Dress",
+    "brand": "Atelier Nove",
+    "category": "dress",
+    "gender": "women",
+    "colors": [
+      "sage"
+    ],
+    "materials": [
+      "linen"
+    ],
+    "pattern": "solid",
+    "fit": "relaxed",
+    "occasions": [
+      "ceremony",
+      "casual"
+    ],
+    "season": "SS",
+    "price_eur": 149,
+    "sustainability_attrs": [
+      "European linen"
+    ],
+    "description": "Midi length with a square neckline and short flutter sleeves; light enough for warm outdoor events.",
+    "image": "data/thumbnails/AN-0001.svg"
+  },
+  {
+    "sku": "AN-0002",
+    "name": "Floral Wrap Dress",
+    "brand": "Atelier Nove",
+    "category": "dress",
+    "gender": "women",
+    "colors": [
+      "blush",
+      "green"
+    ],
+    "materials": [
+      "viscose"
+    ],
+    "pattern": "floral",
+    "fit": "regular",
+    "occasions": [
+      "ceremony",
+      "casual"
+    ],
+    "season": "SS",
+    "price_eur": 119,
+    "sustainability_attrs": [],
+    "description": "Wrap front with a tie waist and a knee-length skirt that moves well.",
+    "image": "data/thumbnails/AN-0002.svg"
+  },
+  {
+    "sku": "AN-0003",
+    "name": "Satin Slip Dress",
+    "brand": "Atelier Nove",
+    "category": "dress",
+    "gender": "women",
+    "colors": [
+      "burgundy"
+    ],
+    "materials": [
+      "satin"
+    ],
+    "pattern": "solid",
+    "fit": "slim",
+    "occasions": [
+      "evening",
+      "ceremony"
+    ],
+    "season": "all-season",
+    "price_eur": 179,
+    "sustainability_attrs": [],
+    "description": "Bias-cut slip with thin adjustable straps and a midi hem.",
+    "image": "data/thumbnails/AN-0003.svg"
+  },
+  {
+    "sku": "AN-0004",
+    "name": "Jersey Shirt Dress",
+    "brand": "Atelier Nove",
+    "category": "dress",
+    "gender": "women",
+    "colors": [
+      "navy"
+    ],
+    "materials": [
+      "cotton jersey"
+    ],
+    "pattern": "solid",
+    "fit": "regular",
+    "occasions": [
+      "work",
+      "travel"
+    ],
+    "season": "all-season",
+    "price_eur": 89,
+    "sustainability_attrs": [
+      "organic cotton"
+    ],
+    "description": "Button front, roll-up sleeves and a self-tie belt; the soft jersey packs without heavy creasing.",
+    "image": "data/thumbnails/AN-0004.svg"
+  },
+  {
+    "sku": "AN-0005",
+    "name": "Pleated Maxi Dress",
+    "brand": "Atelier Nove",
+    "category": "dress",
+    "gender": "women",
+    "colors": [
+      "terracotta"
+    ],
+    "materials": [
+      "recycled polyester"
+    ],
+    "pattern": "solid",
+    "fit": "relaxed",
+    "occasions": [
+      "ceremony",
+      "evening"
+    ],
+    "season": "SS",
+    "price_eur": 199,
+    "sustainability_attrs": [
+      "recycled polyester"
+    ],
+    "description": "Fine pleats, a halter neckline and a floor-length hem.",
+    "image": "data/thumbnails/AN-0005.svg"
+  },
+  {
+    "sku": "AN-0006",
+    "name": "Merino Knit Dress",
+    "brand": "Atelier Nove",
+    "category": "dress",
+    "gender": "women",
+    "colors": [
+      "grey"
+    ],
+    "materials": [
+      "merino wool"
+    ],
+    "pattern": "solid",
+    "fit": "slim",
+    "occasions": [
+      "work",
+      "casual"
+    ],
+    "season": "AW",
+    "price_eur": 159,
+    "sustainability_attrs": [],
+    "description": "Rib knit with a mock neck and long sleeves, cut just below the knee.",
+    "image": "data/thumbnails/AN-0006.svg"
+  },
+  {
+    "sku": "AN-0007",
+    "name": "Velvet Midi Dress",
+    "brand": "Atelier Nove",
+    "category": "dress",
+    "gender": "women",
+    "colors": [
+      "black"
+    ],
+    "materials": [
+      "velvet"
+    ],
+    "pattern": "solid",
+    "fit": "regular",
+    "occasions": [
+      "evening",
+      "ceremony"
+    ],
+    "season": "AW",
+    "price_eur": 229,
+    "sustainability_attrs": [],
+    "description": "Long sleeves, a V neckline and a softly gathered waist.",
+    "image": "data/thumbnails/AN-0007.svg"
+  },
+  {
+    "sku": "AN-0008",
+    "name": "Silk Blouse",
+    "brand": "Atelier Nove",
+    "category": "shirt",
+    "gender": "women",
+    "colors": [
+      "ivory"
+    ],
+    "materials": [
+      "silk"
+    ],
+    "pattern": "solid",
+    "fit": "regular",
+    "occasions": [
+      "work",
+      "evening",
+      "ceremony"
+    ],
+    "season": "all-season",
+    "price_eur": 129,
+    "sustainability_attrs": [],
+    "description": "Concealed placket and a soft pointed collar; tuck it in or wear it loose.",
+    "image": "data/thumbnails/AN-0008.svg"
+  },
+  {
+    "sku": "AN-0009",
+    "name": "Striped Breton Top",
+    "brand": "Atelier Nove",
+    "category": "top",
+    "gender": "women",
+    "colors": [
+      "white",
+      "navy"
+    ],
+    "materials": [
+      "cotton"
+    ],
+    "pattern": "striped",
+    "fit": "regular",
+    "occasions": [
+      "casual",
+      "travel"
+    ],
+    "season": "all-season",
+    "price_eur": 39,
+    "sustainability_attrs": [
+      "organic cotton"
+    ],
+    "description": "Boat neck and three-quarter sleeves in a midweight cotton jersey.",
+    "image": "data/thumbnails/AN-0009.svg"
+  },
+  {
+    "sku": "AN-0010",
+    "name": "Ribbed Tank Top",
+    "brand": "Atelier Nove",
+    "category": "top",
+    "gender": "women",
+    "colors": [
+      "black"
+    ],
+    "materials": [
+      "cotton",
+      "elastane"
+    ],
+    "pattern": "solid",
+    "fit": "slim",
+    "occasions": [
+      "casual",
+      "sport"
+    ],
+    "season": "SS",
+    "price_eur": 25,
+    "sustainability_attrs": [],
+    "description": "Close-fitting rib with a scoop neck; layers under shirts and jackets.",
+    "image": "data/thumbnails/AN-0010.svg"
+  },
+  {
+    "sku": "AN-0011",
+    "name": "Poplin Shirt",
+    "brand": "Atelier Nove",
+    "category": "shirt",
+    "gender": "women",
+    "colors": [
+      "light blue"
+    ],
+    "materials": [
+      "cotton"
+    ],
+    "pattern": "solid",
+    "fit": "relaxed",
+    "occasions": [
+      "work",
+      "casual"
+    ],
+    "season": "all-season",
+    "price_eur": 69,
+    "sustainability_attrs": [
+      "organic cotton"
+    ],
+    "description": "Crisp poplin with a dropped shoulder and a curved hem.",
+    "image": "data/thumbnails/AN-0011.svg"
+  },
+  {
+    "sku": "AN-0012",
+    "name": "Linen Camp Shirt",
+    "brand": "Atelier Nove",
+    "category": "shirt",
+    "gender": "women",
+    "colors": [
+      "yellow"
+    ],
+    "materials": [
+      "linen"
+    ],
+    "pattern": "solid",
+    "fit": "relaxed",
+    "occasions": [
+      "casual",
+      "travel"
+    ],
+    "season": "SS",
+    "price_eur": 79,
+    "sustainability_attrs": [
+      "European linen"
+    ],
+    "description": "Open camp collar and short sleeves; wear it open over a tank or buttoned up.",
+    "image": "data/thumbnails/AN-0012.svg"
+  },
+  {
+    "sku": "AN-0013",
+    "name": "Cashmere Crewneck",
+    "brand": "Atelier Nove",
+    "category": "knitwear",
+    "gender": "women",
+    "colors": [
+      "camel"
+    ],
+    "materials": [
+      "cashmere"
+    ],
+    "pattern": "solid",
+    "fit": "regular",
+    "occasions": [
+      "work",
+      "casual",
+      "travel"
+    ],
+    "season": "AW",
+    "price_eur": 219,
+    "sustainability_attrs": [],
+    "description": "Fine-gauge knit with ribbed cuffs and hem.",
+    "image": "data/thumbnails/AN-0013.svg"
+  },
+  {
+    "sku": "AN-0014",
+    "name": "Cable Knit Cardigan",
+    "brand": "Atelier Nove",
+    "category": "knitwear",
+    "gender": "women",
+    "colors": [
+      "ivory"
+    ],
+    "materials": [
+      "wool"
+    ],
+    "pattern": "solid",
+    "fit": "relaxed",
+    "occasions": [
+      "casual"
+    ],
+    "season": "AW",
+    "price_eur": 119,
+    "sustainability_attrs": [
+      "responsibly sourced wool"
+    ],
+    "description": "Chunky cables, horn-effect buttons and two patch pockets.",
+    "image": "data/thumbnails/AN-0014.svg"
+  },
+  {
+    "sku": "AN-0015",
+    "name": "Fine Knit Shell Top",
+    "brand": "Atelier Nove",
+    "category": "top",
+    "gender": "women",
+    "colors": [
+      "blush"
+    ],
+    "materials": [
+      "viscose"
+    ],
+    "pattern": "solid",
+    "fit": "slim",
+    "occasions": [
+      "work",
+      "evening"
+    ],
+    "season": "SS",
+    "price_eur": 59,
+    "sustainability_attrs": [],
+    "description": "Sleeveless fine knit with a high round neck.",
+    "image": "data/thumbnails/AN-0015.svg"
+  },
+  {
+    "sku": "AN-0016",
+    "name": "Lace Camisole",
+    "brand": "Atelier Nove",
+    "category": "top",
+    "gender": "women",
+    "colors": [
+      "ivory"
+    ],
+    "materials": [
+      "viscose lace"
+    ],
+    "pattern": "solid",
+    "fit": "slim",
+    "occasions": [
+      "ceremony",
+      "evening"
+    ],
+    "season": "SS",
+    "price_eur": 69,
+    "sustainability_attrs": [],
+    "description": "Scalloped lace edging and adjustable straps; layers under a jacket.",
+    "image": "data/thumbnails/AN-0016.svg"
+  },
+  {
+    "sku": "AN-0017",
+    "name": "Pleated Midi Skirt",
+    "brand": "Atelier Nove",
+    "category": "skirt",
+    "gender": "women",
+    "colors": [
+      "sage"
+    ],
+    "materials": [
+      "recycled polyester"
+    ],
+    "pattern": "solid",
+    "fit": "regular",
+    "occasions": [
+      "work",
+      "ceremony"
+    ],
+    "season": "all-season",
+    "price_eur": 89,
+    "sustainability_attrs": [
+      "recycled polyester"
+    ],
+    "description": "Sunray pleats from an elasticated waistband to a mid-calf hem.",
+    "image": "data/thumbnails/AN-0017.svg"
+  },
+  {
+    "sku": "AN-0018",
+    "name": "Denim Mini Skirt",
+    "brand": "Atelier Nove",
+    "category": "skirt",
+    "gender": "women",
+    "colors": [
+      "mid blue"
+    ],
+    "materials": [
+      "cotton denim"
+    ],
+    "pattern": "solid",
+    "fit": "regular",
+    "occasions": [
+      "casual"
+    ],
+    "season": "SS",
+    "price_eur": 59,
+    "sustainability_attrs": [],
+    "description": "Five-pocket mini with a raw hem.",
+    "image": "data/thumbnails/AN-0018.svg"
+  },
+  {
+    "sku": "AN-0019",
+    "name": "Wool Pencil Skirt",
+    "brand": "Atelier Nove",
+    "category": "skirt",
+    "gender": "women",
+    "colors": [
+      "grey"
+    ],
+    "materials": [
+      "wool"
+    ],
+    "pattern": "solid",
+    "fit": "slim",
+    "occasions": [
+      "work"
+    ],
+    "season": "AW",
+    "price_eur": 99,
+    "sustainability_attrs": [],
+    "description": "Knee length with a back vent and a concealed zip.",
+    "image": "data/thumbnails/AN-0019.svg"
+  },
+  {
+    "sku": "AN-0020",
+    "name": "Wide-Leg Tailored Trousers",
+    "brand": "Atelier Nove",
+    "category": "trousers",
+    "gender": "women",
+    "colors": [
+      "black"
+    ],
+    "materials": [
+      "wool blend"
+    ],
+    "pattern": "solid",
+    "fit": "relaxed",
+    "occasions": [
+      "work",
+      "evening"
+    ],
+    "season": "all-season",
+    "price_eur": 129,
+    "sustainability_attrs": [],
+    "description": "High waist, front pleats and a floor-grazing wide leg.",
+    "image": "data/thumbnails/AN-0020.svg"
+  },
+  {
+    "sku": "AN-0021",
+    "name": "Linen Drawstring Trousers",
+    "brand": "Atelier Nove",
+    "category": "trousers",
+    "gender": "women",
+    "colors": [
+      "beige"
+    ],
+    "materials": [
+      "linen"
+    ],
+    "pattern": "solid",
+    "fit": "relaxed",
+    "occasions": [
+      "casual",
+      "travel"
+    ],
+    "season": "SS",
+    "price_eur": 79,
+    "sustainability_attrs": [
+      "European linen"
+    ],
+    "description": "Drawstring waist and a straight, easy leg.",
+    "image": "data/thumbnails/AN-0021.svg"
+  },
+  {
+    "sku": "AN-0022",
+    "name": "High-Rise Straight Jeans",
+    "brand": "Atelier Nove",
+    "category": "jeans",
+    "gender": "women",
+    "colors": [
+      "mid blue"
+    ],
+    "materials": [
+      "cotton denim"
+    ],
+    "pattern": "solid",
+    "fit": "regular",
+    "occasions": [
+      "casual",
+      "travel"
+    ],
+    "season": "all-season",
+    "price_eur": 89,
+    "sustainability_attrs": [
+      "organic cotton"
+    ],
+    "description": "Rigid denim with a high rise and a straight leg at full length.",
+    "image": "data/thumbnails/AN-0022.svg"
+  },
+  {
+    "sku": "AN-0023",
+    "name": "Performance Leggings",
+    "brand": "Atelier Nove",
+    "category": "trousers",
+    "gender": "women",
+    "colors": [
+      "black"
+    ],
+    "materials": [
+      "recycled polyamide",
+      "elastane"
+    ],
+    "pattern": "solid",
+    "fit": "slim",
+    "occasions": [
+      "sport"
+    ],
+    "season": "all-season",
+    "price_eur": 55,
+    "sustainability_attrs": [
+      "recycled polyamide"
+    ],
+    "description": "High waist with a hidden key pocket; stretch fabric for running and gym sessions.",
+    "image": "data/thumbnails/AN-0023.svg"
+  },
+  {
+    "sku": "AN-0024",
+    "name": "Cigarette Trousers",
+    "brand": "Atelier Nove",
+    "category": "trousers",
+    "gender": "women",
+    "colors": [
+      "navy"
+    ],
+    "materials": [
+      "cotton",
+      "elastane"
+    ],
+    "pattern": "solid",
+    "fit": "slim",
+    "occasions": [
+      "work"
+    ],
+    "season": "all-season",
+    "price_eur": 89,
+    "sustainability_attrs": [],
+    "description": "Slim ankle-length cut with a flat front and side pockets.",
+    "image": "data/thumbnails/AN-0024.svg"
+  },
+  {
+    "sku": "AN-0025",
+    "name": "Satin Wide-Leg Trousers",
+    "brand": "Atelier Nove",
+    "category": "trousers",
+    "gender": "women",
+    "colors": [
+      "black"
+    ],
+    "materials": [
+      "satin"
+    ],
+    "pattern": "solid",
+    "fit": "relaxed",
+    "occasions": [
+      "evening",
+      "ceremony"
+    ],
+    "season": "all-season",
+    "price_eur": 119,
+    "sustainability_attrs": [],
+    "description": "Fluid satin with an elasticated back waist and a full-length wide leg.",
+    "image": "data/thumbnails/AN-0025.svg"
+  },
+  {
+    "sku": "AN-0026",
+    "name": "Wool Wrap Coat",
+    "brand": "Atelier Nove",
+    "category": "outerwear",
+    "gender": "women",
+    "colors": [
+      "camel"
+    ],
+    "materials": [
+      "wool"
+    ],
+    "pattern": "solid",
+    "fit": "relaxed",
+    "occasions": [
+      "work",
+      "evening"
+    ],
+    "season": "AW",
+    "price_eur": 329,
+    "sustainability_attrs": [],
+    "description": "Shawl collar, a tie belt and a below-the-knee length.",
+    "image": "data/thumbnails/AN-0026.svg"
+  },
+  {
+    "sku": "AN-0027",
+    "name": "Cropped Tweed Jacket",
+    "brand": "Atelier Nove",
+    "category": "outerwear",
+    "gender": "women",
+    "colors": [
+      "ivory",
+      "black"
+    ],
+    "materials": [
+      "wool blend"
+    ],
+    "pattern": "checked",
+    "fit": "regular",
+    "occasions": [
+      "ceremony",
+      "work",
+      "evening"
+    ],
+    "season": "all-season",
+    "price_eur": 189,
+    "sustainability_attrs": [],
+    "description": "Collarless boxy jacket with frayed edges and four front pockets.",
+    "image": "data/thumbnails/AN-0027.svg"
+  },
+  {
+    "sku": "AN-0028",
+    "name": "Light Trench Coat",
+    "brand": "Atelier Nove",
+    "category": "outerwear",
+    "gender": "women",
+    "colors": [
+      "beige"
+    ],
+    "materials": [
+      "cotton"
+    ],
+    "pattern": "solid",
+    "fit": "regular",
+    "occasions": [
+      "work",
+      "travel"
+    ],
+    "season": "SS",
+    "price_eur": 199,
+    "sustainability_attrs": [
+      "organic cotton"
+    ],
+    "description": "Double-breasted with a storm flap and a belted waist, in a light cotton gabardine.",
+    "image": "data/thumbnails/AN-0028.svg"
+  },
+  {
+    "sku": "AN-0029",
+    "name": "Block-Heel Sandals",
+    "brand": "Atelier Nove",
+    "category": "shoes",
+    "gender": "women",
+    "colors": [
+      "gold"
+    ],
+    "materials": [
+      "leather"
+    ],
+    "pattern": "solid",
+    "fit": "regular",
+    "occasions": [
+      "ceremony",
+      "evening"
+    ],
+    "season": "SS",
+    "price_eur": 99,
+    "sustainability_attrs": [],
+    "description": "Ankle strap and a 6 cm block heel that stays steady on grass.",
+    "image": "data/thumbnails/AN-0029.svg"
+  },
+  {
+    "sku": "AN-0030",
+    "name": "Leather Ankle Boots",
+    "brand": "Atelier Nove",
+    "category": "shoes",
+    "gender": "women",
+    "colors": [
+      "black"
+    ],
+    "materials": [
+      "leather"
+    ],
+    "pattern": "solid",
+    "fit": "regular",
+    "occasions": [
+      "work",
+      "casual"
+    ],
+    "season": "AW",
+    "price_eur": 189,
+    "sustainability_attrs": [],
+    "description": "Side zip and a 4 cm stacked heel.",
+    "image": "data/thumbnails/AN-0030.svg"
+  },
+  {
+    "sku": "AN-0031",
+    "name": "Pointed Slingback Pumps",
+    "brand": "Atelier Nove",
+    "category": "shoes",
+    "gender": "women",
+    "colors": [
+      "blush"
+    ],
+    "materials": [
+      "leather"
+    ],
+    "pattern": "solid",
+    "fit": "regular",
+    "occasions": [
+      "work",
+      "ceremony",
+      "evening"
+    ],
+    "season": "all-season",
+    "price_eur": 129,
+    "sustainability_attrs": [],
+    "description": "Pointed toe, slingback strap and a 5 cm kitten heel.",
+    "image": "data/thumbnails/AN-0031.svg"
+  },
+  {
+    "sku": "AN-0032",
+    "name": "Woven Flat Sandals",
+    "brand": "Atelier Nove",
+    "category": "shoes",
+    "gender": "women",
+    "colors": [
+      "brown"
+    ],
+    "materials": [
+      "leather"
+    ],
+    "pattern": "solid",
+    "fit": "regular",
+    "occasions": [
+      "casual",
+      "travel"
+    ],
+    "season": "SS",
+    "price_eur": 69,
+    "sustainability_attrs": [],
+    "description": "Hand-woven straps on a cushioned flat sole.",
+    "image": "data/thumbnails/AN-0032.svg"
+  },
+  {
+    "sku": "AN-0033",
+    "name": "Leather Ballet Flats",
+    "brand": "Atelier Nove",
+    "category": "shoes",
+    "gender": "women",
+    "colors": [
+      "black"
+    ],
+    "materials": [
+      "leather"
+    ],
+    "pattern": "solid",
+    "fit": "regular",
+    "occasions": [
+      "work",
+      "travel"
+    ],
+    "season": "all-season",
+    "price_eur": 89,
+    "sustainability_attrs": [],
+    "description": "Soft round toe and a flexible sole that folds into a bag.",
+    "image": "data/thumbnails/AN-0033.svg"
+  },
+  {
+    "sku": "AN-0034",
+    "name": "Beaded Clutch",
+    "brand": "Atelier Nove",
+    "category": "bag",
+    "gender": "women",
+    "colors": [
+      "ivory"
+    ],
+    "materials": [
+      "glass beads",
+      "cotton"
+    ],
+    "pattern": "solid",
+    "fit": "regular",
+    "occasions": [
+      "ceremony",
+      "evening"
+    ],
+    "season": "all-season",
+    "price_eur": 59,
+    "sustainability_attrs": [],
+    "description": "Magnetic closure and a detachable chain strap; fits a phone and keys.",
+    "image": "data/thumbnails/AN-0034.svg"
+  },
+  {
+    "sku": "AN-0035",
+    "name": "Leather Shoulder Bag",
+    "brand": "Atelier Nove",
+    "category": "bag",
+    "gender": "women",
+    "colors": [
+      "brown"
+    ],
+    "materials": [
+      "leather"
+    ],
+    "pattern": "solid",
+    "fit": "regular",
+    "occasions": [
+      "work",
+      "casual"
+    ],
+    "season": "all-season",
+    "price_eur": 159,
+    "sustainability_attrs": [],
+    "description": "Structured shape with a zip top and an inner laptop sleeve for 13-inch devices.",
+    "image": "data/thumbnails/AN-0035.svg"
+  },
+  {
+    "sku": "AN-0036",
+    "name": "Raffia Basket Bag",
+    "brand": "Atelier Nove",
+    "category": "bag",
+    "gender": "women",
+    "colors": [
+      "beige"
+    ],
+    "materials": [
+      "raffia"
+    ],
+    "pattern": "solid",
+    "fit": "regular",
+    "occasions": [
+      "casual",
+      "travel",
+      "ceremony"
+    ],
+    "season": "SS",
+    "price_eur": 49,
+    "sustainability_attrs": [],
+    "description": "Open top with short leather handles.",
+    "image": "data/thumbnails/AN-0036.svg"
+  },
+  {
+    "sku": "AN-0037",
+    "name": "Mini Chain Bag",
+    "brand": "Atelier Nove",
+    "category": "bag",
+    "gender": "women",
+    "colors": [
+      "black"
+    ],
+    "materials": [
+      "leather"
+    ],
+    "pattern": "solid",
+    "fit": "regular",
+    "occasions": [
+      "evening"
+    ],
+    "season": "all-season",
+    "price_eur": 139,
+    "sustainability_attrs": [],
+    "description": "Quilted flap bag on a long chain strap.",
+    "image": "data/thumbnails/AN-0037.svg"
+  },
+  {
+    "sku": "AN-0038",
+    "name": "Oxford Shirt",
+    "brand": "Atelier Nove",
+    "category": "shirt",
+    "gender": "men",
+    "colors": [
+      "white"
+    ],
+    "materials": [
+      "cotton"
+    ],
+    "pattern": "solid",
+    "fit": "regular",
+    "occasions": [
+      "work",
+      "ceremony"
+    ],
+    "season": "all-season",
+    "price_eur": 69,
+    "sustainability_attrs": [
+      "organic cotton"
+    ],
+    "description": "Button-down collar in a soft Oxford weave.",
+    "image": "data/thumbnails/AN-0038.svg"
+  },
+  {
+    "sku": "AN-0039",
+    "name": "Linen Shirt",
+    "brand": "Atelier Nove",
+    "category": "shirt",
+    "gender": "men",
+    "colors": [
+      "light blue"
+    ],
+    "materials": [
+      "linen"
+    ],
+    "pattern": "solid",
+    "fit": "relaxed",
+    "occasions": [
+      "ceremony",
+      "casual",
+      "travel"
+    ],
+    "season": "SS",
+    "price_eur": 79,
+    "sustainability_attrs": [
+      "European linen"
+    ],
+    "description": "Classic collar and a relaxed body that breathes in the heat.",
+    "image": "data/thumbnails/AN-0039.svg"
+  },
+  {
+    "sku": "AN-0040",
+    "name": "Striped Poplin Shirt",
+    "brand": "Atelier Nove",
+    "category": "shirt",
+    "gender": "men",
+    "colors": [
+      "white",
+      "blue"
+    ],
+    "materials": [
+      "cotton"
+    ],
+    "pattern": "striped",
+    "fit": "slim",
+    "occasions": [
+      "work"
+    ],
+    "season": "all-season",
+    "price_eur": 75,
+    "sustainability_attrs": [],
+    "description": "Fine bengal stripe with a cutaway collar.",
+    "image": "data/thumbnails/AN-0040.svg"
+  },
+  {
+    "sku": "AN-0041",
+    "name": "Flannel Overshirt",
+    "brand": "Atelier Nove",
+    "category": "shirt",
+    "gender": "men",
+    "colors": [
+      "green",
+      "navy"
+    ],
+    "materials": [
+      "cotton flannel"
+    ],
+    "pattern": "checked",
+    "fit": "relaxed",
+    "occasions": [
+      "casual"
+    ],
+    "season": "AW",
+    "price_eur": 89,
+    "sustainability_attrs": [],
+    "description": "Brushed flannel with two chest pockets; wear it as a light jacket.",
+    "image": "data/thumbnails/AN-0041.svg"
+  },
+  {
+    "sku": "AN-0042",
+    "name": "Pique Polo",
+    "brand": "Atelier Nove",
+    "category": "top",
+    "gender": "men",
+    "colors": [
+      "navy"
+    ],
+    "materials": [
+      "cotton"
+    ],
+    "pattern": "solid",
+    "fit": "regular",
+    "occasions": [
+      "casual",
+      "travel"
+    ],
+    "season": "SS",
+    "price_eur": 55,
+    "sustainability_attrs": [
+      "organic cotton"
+    ],
+    "description": "Two-button placket and ribbed sleeve cuffs.",
+    "image": "data/thumbnails/AN-0042.svg"
+  },
+  {
+    "sku": "AN-0043",
+    "name": "Crew Neck Tee",
+    "brand": "Atelier Nove",
+    "category": "top",
+    "gender": "men",
+    "colors": [
+      "grey"
+    ],
+    "materials": [
+      "cotton"
+    ],
+    "pattern": "solid",
+    "fit": "regular",
+    "occasions": [
+      "casual"
+    ],
+    "season": "all-season",
+    "price_eur": 29,
+    "sustainability_attrs": [
+      "organic cotton"
+    ],
+    "description": "Heavyweight jersey that keeps its shape.",
+    "image": "data/thumbnails/AN-0043.svg"
+  },
+  {
+    "sku": "AN-0044",
+    "name": "Merino Knit Polo",
+    "brand": "Atelier Nove",
+    "category": "top",
+    "gender": "men",
+    "colors": [
+      "black"
+    ],
+    "materials": [
+      "merino wool"
+    ],
+    "pattern": "solid",
+    "fit": "slim",
+    "occasions": [
+      "evening",
+      "work"
+    ],
+    "season": "all-season",
+    "price_eur": 99,
+    "sustainability_attrs": [],
+    "description": "Fine-gauge knit with a three-button placket.",
+    "image": "data/thumbnails/AN-0044.svg"
+  },
+  {
+    "sku": "AN-0045",
+    "name": "Silk-Blend Shirt",
+    "brand": "Atelier Nove",
+    "category": "shirt",
+    "gender": "men",
+    "colors": [
+      "black"
+    ],
+    "materials": [
+      "silk",
+      "cotton"
+    ],
+    "pattern": "solid",
+    "fit": "slim",
+    "occasions": [
+      "evening",
+      "ceremony"
+    ],
+    "season": "all-season",
+    "price_eur": 99,
+    "sustainability_attrs": [],
+    "description": "Soft sheen with a hidden placket; wear it without a tie.",
+    "image": "data/thumbnails/AN-0045.svg"
+  },
+  {
+    "sku": "AN-0046",
+    "name": "Merino Crewneck",
+    "brand": "Atelier Nove",
+    "category": "knitwear",
+    "gender": "men",
+    "colors": [
+      "navy"
+    ],
+    "materials": [
+      "merino wool"
+    ],
+    "pattern": "solid",
+    "fit": "regular",
+    "occasions": [
+      "work",
+      "casual",
+      "travel"
+    ],
+    "season": "AW",
+    "price_eur": 129,
+    "sustainability_attrs": [],
+    "description": "Lightweight knit that layers over a shirt.",
+    "image": "data/thumbnails/AN-0046.svg"
+  },
+  {
+    "sku": "AN-0047",
+    "name": "Chunky Rollneck",
+    "brand": "Atelier Nove",
+    "category": "knitwear",
+    "gender": "men",
+    "colors": [
+      "ivory"
+    ],
+    "materials": [
+      "wool"
+    ],
+    "pattern": "solid",
+    "fit": "relaxed",
+    "occasions": [
+      "casual"
+    ],
+    "season": "AW",
+    "price_eur": 149,
+    "sustainability_attrs": [
+      "responsibly sourced wool"
+    ],
+    "description": "Thick rib with a fold-over neck.",
+    "image": "data/thumbnails/AN-0047.svg"
+  },
+  {
+    "sku": "AN-0048",
+    "name": "Cotton Quarter-Zip",
+    "brand": "Atelier Nove",
+    "category": "knitwear",
+    "gender": "men",
+    "colors": [
+      "olive"
+    ],
+    "materials": [
+      "cotton"
+    ],
+    "pattern": "solid",
+    "fit": "regular",
+    "occasions": [
+      "casual",
+      "travel"
+    ],
+    "season": "all-season",
+    "price_eur": 89,
+    "sustainability_attrs": [],
+    "description": "Mid-weight knit with a stand collar and a short zip.",
+    "image": "data/thumbnails/AN-0048.svg"
+  },
+  {
+    "sku": "AN-0049",
+    "name": "Linen Suit Trousers",
+    "brand": "Atelier Nove",
+    "category": "trousers",
+    "gender": "men",
+    "colors": [
+      "beige"
+    ],
+    "materials": [
+      "linen"
+    ],
+    "pattern": "solid",
+    "fit": "regular",
+    "occasions": [
+      "ceremony",
+      "work"
+    ],
+    "season": "SS",
+    "price_eur": 129,
+    "sustainability_attrs": [
+      "European linen"
+    ],
+    "description": "Flat front with side adjusters; pairs with the Linen Blazer.",
+    "image": "data/thumbnails/AN-0049.svg"
+  },
+  {
+    "sku": "AN-0050",
+    "name": "Wool Flannel Trousers",
+    "brand": "Atelier Nove",
+    "category": "trousers",
+    "gender": "men",
+    "colors": [
+      "grey"
+    ],
+    "materials": [
+      "wool"
+    ],
+    "pattern": "solid",
+    "fit": "slim",
+    "occasions": [
+      "work",
+      "evening"
+    ],
+    "season": "AW",
+    "price_eur": 149,
+    "sustainability_attrs": [],
+    "description": "Tapered leg with a pressed crease.",
+    "image": "data/thumbnails/AN-0050.svg"
+  },
+  {
+    "sku": "AN-0051",
+    "name": "Wool Suit Trousers",
+    "brand": "Atelier Nove",
+    "category": "trousers",
+    "gender": "men",
+    "colors": [
+      "navy"
+    ],
+    "materials": [
+      "wool"
+    ],
+    "pattern": "solid",
+    "fit": "slim",
+    "occasions": [
+      "ceremony",
+      "work",
+      "evening"
+    ],
+    "season": "all-season",
+    "price_eur": 139,
+    "sustainability_attrs": [],
+    "description": "Flat front with belt loops; matches the Navy Wool Blazer.",
+    "image": "data/thumbnails/AN-0051.svg"
+  },
+  {
+    "sku": "AN-0052",
+    "name": "Stretch Chinos",
+    "brand": "Atelier Nove",
+    "category": "trousers",
+    "gender": "men",
+    "colors": [
+      "navy"
+    ],
+    "materials": [
+      "cotton",
+      "elastane"
+    ],
+    "pattern": "solid",
+    "fit": "slim",
+    "occasions": [
+      "work",
+      "casual",
+      "travel"
+    ],
+    "season": "all-season",
+    "price_eur": 79,
+    "sustainability_attrs": [],
+    "description": "Garment-dyed twill with a touch of stretch.",
+    "image": "data/thumbnails/AN-0052.svg"
+  },
+  {
+    "sku": "AN-0053",
+    "name": "Slim Dark Jeans",
+    "brand": "Atelier Nove",
+    "category": "jeans",
+    "gender": "men",
+    "colors": [
+      "indigo"
+    ],
+    "materials": [
+      "cotton denim"
+    ],
+    "pattern": "solid",
+    "fit": "slim",
+    "occasions": [
+      "casual",
+      "evening"
+    ],
+    "season": "all-season",
+    "price_eur": 99,
+    "sustainability_attrs": [],
+    "description": "Clean dark wash with minimal fading.",
+    "image": "data/thumbnails/AN-0053.svg"
+  },
+  {
+    "sku": "AN-0054",
+    "name": "Relaxed Jeans",
+    "brand": "Atelier Nove",
+    "category": "jeans",
+    "gender": "men",
+    "colors": [
+      "mid blue"
+    ],
+    "materials": [
+      "cotton denim"
+    ],
+    "pattern": "solid",
+    "fit": "relaxed",
+    "occasions": [
+      "casual",
+      "travel"
+    ],
+    "season": "all-season",
+    "price_eur": 89,
+    "sustainability_attrs": [
+      "recycled cotton"
+    ],
+    "description": "Roomy through the thigh with a straight leg.",
+    "image": "data/thumbnails/AN-0054.svg"
+  },
+  {
+    "sku": "AN-0055",
+    "name": "Running Shorts",
+    "brand": "Atelier Nove",
+    "category": "trousers",
+    "gender": "men",
+    "colors": [
+      "black"
+    ],
+    "materials": [
+      "recycled polyester"
+    ],
+    "pattern": "solid",
+    "fit": "regular",
+    "occasions": [
+      "sport"
+    ],
+    "season": "SS",
+    "price_eur": 39,
+    "sustainability_attrs": [
+      "recycled polyester"
+    ],
+    "description": "Lightweight shorts with an inner brief and a zip pocket.",
+    "image": "data/thumbnails/AN-0055.svg"
+  },
+  {
+    "sku": "AN-0056",
+    "name": "Linen Blazer",
+    "brand": "Atelier Nove",
+    "category": "outerwear",
+    "gender": "men",
+    "colors": [
+      "beige"
+    ],
+    "materials": [
+      "linen"
+    ],
+    "pattern": "solid",
+    "fit": "regular",
+    "occasions": [
+      "ceremony",
+      "work"
+    ],
+    "season": "SS",
+    "price_eur": 219,
+    "sustainability_attrs": [
+      "European linen"
+    ],
+    "description": "Unlined two-button blazer; matches the Linen Suit Trousers.",
+    "image": "data/thumbnails/AN-0056.svg"
+  },
+  {
+    "sku": "AN-0057",
+    "name": "Navy Wool Blazer",
+    "brand": "Atelier Nove",
+    "category": "outerwear",
+    "gender": "men",
+    "colors": [
+      "navy"
+    ],
+    "materials": [
+      "wool"
+    ],
+    "pattern": "solid",
+    "fit": "slim",
+    "occasions": [
+      "work",
+      "ceremony",
+      "evening"
+    ],
+    "season": "all-season",
+    "price_eur": 249,
+    "sustainability_attrs": [],
+    "description": "Half-lined single-breasted blazer with notch lapels.",
+    "image": "data/thumbnails/AN-0057.svg"
+  },
+  {
+    "sku": "AN-0058",
+    "name": "Quilted Field Jacket",
+    "brand": "Atelier Nove",
+    "category": "outerwear",
+    "gender": "men",
+    "colors": [
+      "olive"
+    ],
+    "materials": [
+      "recycled polyester"
+    ],
+    "pattern": "solid",
+    "fit": "regular",
+    "occasions": [
+      "casual",
+      "travel"
+    ],
+    "season": "AW",
+    "price_eur": 179,
+    "sustainability_attrs": [
+      "recycled polyester padding"
+    ],
+    "description": "Diamond quilting, corduroy collar and four snap pockets.",
+    "image": "data/thumbnails/AN-0058.svg"
+  },
+  {
+    "sku": "AN-0059",
+    "name": "Wool Overcoat",
+    "brand": "Atelier Nove",
+    "category": "outerwear",
+    "gender": "men",
+    "colors": [
+      "charcoal"
+    ],
+    "materials": [
+      "wool"
+    ],
+    "pattern": "solid",
+    "fit": "regular",
+    "occasions": [
+      "work",
+      "evening"
+    ],
+    "season": "AW",
+    "price_eur": 349,
+    "sustainability_attrs": [],
+    "description": "Knee-length single-breasted coat.",
+    "image": "data/thumbnails/AN-0059.svg"
+  },
+  {
+    "sku": "AN-0060",
+    "name": "Suede Loafers",
+    "brand": "Atelier Nove",
+    "category": "shoes",
+    "gender": "men",
+    "colors": [
+      "brown"
+    ],
+    "materials": [
+      "suede"
+    ],
+    "pattern": "solid",
+    "fit": "regular",
+    "occasions": [
+      "ceremony",
+      "work",
+      "evening"
+    ],
+    "season": "all-season",
+    "price_eur": 159,
+    "sustainability_attrs": [],
+    "description": "Penny loafer on a leather sole.",
+    "image": "data/thumbnails/AN-0060.svg"
+  },
+  {
+    "sku": "AN-0061",
+    "name": "Leather Derby Shoes",
+    "brand": "Atelier Nove",
+    "category": "shoes",
+    "gender": "men",
+    "colors": [
+      "black"
+    ],
+    "materials": [
+      "leather"
+    ],
+    "pattern": "solid",
+    "fit": "regular",
+    "occasions": [
+      "work",
+      "ceremony",
+      "evening"
+    ],
+    "season": "all-season",
+    "price_eur": 179,
+    "sustainability_attrs": [],
+    "description": "Polished calf leather with open lacing.",
+    "image": "data/thumbnails/AN-0061.svg"
+  },
+  {
+    "sku": "AN-0062",
+    "name": "Chelsea Boots",
+    "brand": "Atelier Nove",
+    "category": "shoes",
+    "gender": "men",
+    "colors": [
+      "brown"
+    ],
+    "materials": [
+      "leather"
+    ],
+    "pattern": "solid",
+    "fit": "regular",
+    "occasions": [
+      "casual",
+      "work"
+    ],
+    "season": "AW",
+    "price_eur": 199,
+    "sustainability_attrs": [],
+    "description": "Elastic side panels and a rubber sole with grip.",
+    "image": "data/thumbnails/AN-0062.svg"
+  },
+  {
+    "sku": "AN-0063",
+    "name": "Espadrilles",
+    "brand": "Atelier Nove",
+    "category": "shoes",
+    "gender": "men",
+    "colors": [
+      "navy"
+    ],
+    "materials": [
+      "cotton canvas",
+      "jute"
+    ],
+    "pattern": "solid",
+    "fit": "regular",
+    "occasions": [
+      "casual",
+      "travel"
+    ],
+    "season": "SS",
+    "price_eur": 49,
+    "sustainability_attrs": [],
+    "description": "Slip-on canvas upper on a braided jute sole.",
+    "image": "data/thumbnails/AN-0063.svg"
+  },
+  {
+    "sku": "AN-0064",
+    "name": "Canvas Sneakers",
+    "brand": "Atelier Nove",
+    "category": "shoes",
+    "gender": "unisex",
+    "colors": [
+      "white"
+    ],
+    "materials": [
+      "cotton canvas",
+      "rubber"
+    ],
+    "pattern": "solid",
+    "fit": "regular",
+    "occasions": [
+      "casual",
+      "travel"
+    ],
+    "season": "all-season",
+    "price_eur": 69,
+    "sustainability_attrs": [
+      "organic cotton"
+    ],
+    "description": "Low-top lace-up with a vulcanised sole.",
+    "image": "data/thumbnails/AN-0064.svg"
+  },
+  {
+    "sku": "AN-0065",
+    "name": "Running Shoes",
+    "brand": "Atelier Nove",
+    "category": "shoes",
+    "gender": "unisex",
+    "colors": [
+      "grey",
+      "sage"
+    ],
+    "materials": [
+      "recycled polyester mesh",
+      "rubber"
+    ],
+    "pattern": "solid",
+    "fit": "regular",
+    "occasions": [
+      "sport"
+    ],
+    "season": "all-season",
+    "price_eur": 119,
+    "sustainability_attrs": [
+      "recycled polyester"
+    ],
+    "description": "Cushioned midsole and a breathable mesh upper.",
+    "image": "data/thumbnails/AN-0065.svg"
+  },
+  {
+    "sku": "AN-0066",
+    "name": "Technical Running Tee",
+    "brand": "Atelier Nove",
+    "category": "top",
+    "gender": "unisex",
+    "colors": [
+      "sage"
+    ],
+    "materials": [
+      "recycled polyester"
+    ],
+    "pattern": "solid",
+    "fit": "regular",
+    "occasions": [
+      "sport"
+    ],
+    "season": "SS",
+    "price_eur": 35,
+    "sustainability_attrs": [
+      "recycled polyester"
+    ],
+    "description": "Quick-dry fabric with flatlock seams.",
+    "image": "data/thumbnails/AN-0066.svg"
+  },
+  {
+    "sku": "AN-0067",
+    "name": "Packable Rain Jacket",
+    "brand": "Atelier Nove",
+    "category": "outerwear",
+    "gender": "unisex",
+    "colors": [
+      "navy"
+    ],
+    "materials": [
+      "recycled polyamide"
+    ],
+    "pattern": "solid",
+    "fit": "relaxed",
+    "occasions": [
+      "travel",
+      "casual",
+      "sport"
+    ],
+    "season": "all-season",
+    "price_eur": 129,
+    "sustainability_attrs": [
+      "recycled polyamide"
+    ],
+    "description": "Hooded shell that folds into its own pocket.",
+    "image": "data/thumbnails/AN-0067.svg"
+  },
+  {
+    "sku": "AN-0068",
+    "name": "Leather Weekender",
+    "brand": "Atelier Nove",
+    "category": "bag",
+    "gender": "unisex",
+    "colors": [
+      "brown"
+    ],
+    "materials": [
+      "leather"
+    ],
+    "pattern": "solid",
+    "fit": "regular",
+    "occasions": [
+      "travel"
+    ],
+    "season": "all-season",
+    "price_eur": 249,
+    "sustainability_attrs": [],
+    "description": "Two-day holdall with a shoe compartment and a detachable shoulder strap.",
+    "image": "data/thumbnails/AN-0068.svg"
+  },
+  {
+    "sku": "AN-0069",
+    "name": "Canvas Tote",
+    "brand": "Atelier Nove",
+    "category": "bag",
+    "gender": "unisex",
+    "colors": [
+      "beige"
+    ],
+    "materials": [
+      "cotton canvas"
+    ],
+    "pattern": "solid",
+    "fit": "regular",
+    "occasions": [
+      "casual",
+      "travel"
+    ],
+    "season": "all-season",
+    "price_eur": 35,
+    "sustainability_attrs": [
+      "organic cotton"
+    ],
+    "description": "Large open tote with an inner pocket.",
+    "image": "data/thumbnails/AN-0069.svg"
+  },
+  {
+    "sku": "AN-0070",
+    "name": "Gym Duffel",
+    "brand": "Atelier Nove",
+    "category": "bag",
+    "gender": "unisex",
+    "colors": [
+      "black"
+    ],
+    "materials": [
+      "recycled polyester"
+    ],
+    "pattern": "solid",
+    "fit": "regular",
+    "occasions": [
+      "sport",
+      "travel"
+    ],
+    "season": "all-season",
+    "price_eur": 59,
+    "sustainability_attrs": [
+      "recycled polyester"
+    ],
+    "description": "Ventilated shoe pocket and a wipe-clean base.",
+    "image": "data/thumbnails/AN-0070.svg"
+  },
+  {
+    "sku": "AN-0071",
+    "name": "Leather Backpack",
+    "brand": "Atelier Nove",
+    "category": "bag",
+    "gender": "unisex",
+    "colors": [
+      "black"
+    ],
+    "materials": [
+      "leather"
+    ],
+    "pattern": "solid",
+    "fit": "regular",
+    "occasions": [
+      "work",
+      "travel"
+    ],
+    "season": "all-season",
+    "price_eur": 189,
+    "sustainability_attrs": [],
+    "description": "Padded sleeve for 15-inch laptops and a luggage pass-through.",
+    "image": "data/thumbnails/AN-0071.svg"
+  },
+  {
+    "sku": "AN-0072",
+    "name": "Silk Twill Scarf",
+    "brand": "Atelier Nove",
+    "category": "accessory",
+    "gender": "unisex",
+    "colors": [
+      "red",
+      "navy"
+    ],
+    "materials": [
+      "silk"
+    ],
+    "pattern": "printed",
+    "fit": "regular",
+    "occasions": [
+      "ceremony",
+      "evening",
+      "work"
+    ],
+    "season": "all-season",
+    "price_eur": 69,
+    "sustainability_attrs": [],
+    "description": "Square scarf with a geometric print and hand-rolled edges.",
+    "image": "data/thumbnails/AN-0072.svg"
+  },
+  {
+    "sku": "AN-0073",
+    "name": "Wool Scarf",
+    "brand": "Atelier Nove",
+    "category": "accessory",
+    "gender": "unisex",
+    "colors": [
+      "grey"
+    ],
+    "materials": [
+      "wool"
+    ],
+    "pattern": "checked",
+    "fit": "regular",
+    "occasions": [
+      "casual",
+      "travel"
+    ],
+    "season": "AW",
+    "price_eur": 49,
+    "sustainability_attrs": [
+      "responsibly sourced wool"
+    ],
+    "description": "Long scarf in a soft check with fringed ends.",
+    "image": "data/thumbnails/AN-0073.svg"
+  },
+  {
+    "sku": "AN-0074",
+    "name": "Leather Belt",
+    "brand": "Atelier Nove",
+    "category": "accessory",
+    "gender": "unisex",
+    "colors": [
+      "brown"
+    ],
+    "materials": [
+      "leather"
+    ],
+    "pattern": "solid",
+    "fit": "regular",
+    "occasions": [
+      "work",
+      "casual",
+      "ceremony"
+    ],
+    "season": "all-season",
+    "price_eur": 45,
+    "sustainability_attrs": [],
+    "description": "3 cm belt with a brushed metal buckle.",
+    "image": "data/thumbnails/AN-0074.svg"
+  },
+  {
+    "sku": "AN-0075",
+    "name": "Straw Panama Hat",
+    "brand": "Atelier Nove",
+    "category": "accessory",
+    "gender": "unisex",
+    "colors": [
+      "beige"
+    ],
+    "materials": [
+      "straw"
+    ],
+    "pattern": "solid",
+    "fit": "regular",
+    "occasions": [
+      "ceremony",
+      "casual",
+      "travel"
+    ],
+    "season": "SS",
+    "price_eur": 59,
+    "sustainability_attrs": [],
+    "description": "Wide brim with a grosgrain band.",
+    "image": "data/thumbnails/AN-0075.svg"
+  },
+  {
+    "sku": "AN-0076",
+    "name": "Tortoiseshell Sunglasses",
+    "brand": "Atelier Nove",
+    "category": "accessory",
+    "gender": "unisex",
+    "colors": [
+      "brown"
+    ],
+    "materials": [
+      "acetate"
+    ],
+    "pattern": "solid",
+    "fit": "regular",
+    "occasions": [
+      "casual",
+      "travel"
+    ],
+    "season": "SS",
+    "price_eur": 89,
+    "sustainability_attrs": [
+      "bio-based acetate"
+    ],
+    "description": "Rounded frame with UV400 lenses.",
+    "image": "data/thumbnails/AN-0076.svg"
+  },
+  {
+    "sku": "AN-0077",
+    "name": "Merino Beanie",
+    "brand": "Atelier Nove",
+    "category": "accessory",
+    "gender": "unisex",
+    "colors": [
+      "olive"
+    ],
+    "materials": [
+      "merino wool"
+    ],
+    "pattern": "solid",
+    "fit": "regular",
+    "occasions": [
+      "casual",
+      "sport"
+    ],
+    "season": "AW",
+    "price_eur": 29,
+    "sustainability_attrs": [],
+    "description": "Rib-knit beanie with a turn-up.",
+    "image": "data/thumbnails/AN-0077.svg"
+  },
+  {
+    "sku": "AN-0078",
+    "name": "Printed Silk Tie",
+    "brand": "Atelier Nove",
+    "category": "accessory",
+    "gender": "men",
+    "colors": [
+      "navy",
+      "sage"
+    ],
+    "materials": [
+      "silk"
+    ],
+    "pattern": "printed",
+    "fit": "regular",
+    "occasions": [
+      "ceremony",
+      "work"
+    ],
+    "season": "all-season",
+    "price_eur": 59,
+    "sustainability_attrs": [],
+    "description": "Small geometric print, 7 cm blade.",
+    "image": "data/thumbnails/AN-0078.svg"
+  },
+  {
+    "sku": "AN-0079",
+    "name": "Silk Pocket Square",
+    "brand": "Atelier Nove",
+    "category": "accessory",
+    "gender": "men",
+    "colors": [
+      "ivory"
+    ],
+    "materials": [
+      "silk"
+    ],
+    "pattern": "solid",
+    "fit": "regular",
+    "occasions": [
+      "ceremony",
+      "evening"
+    ],
+    "season": "all-season",
+    "price_eur": 29,
+    "sustainability_attrs": [],
+    "description": "Hand-rolled edges; folds into a blazer breast pocket.",
+    "image": "data/thumbnails/AN-0079.svg"
+  }
+]
