@@ -1,0 +1,33 @@
+# Deterministic query vocabulary: free-text phrases -> schema values. Matching is case-insensitive,
+# on whole words, longest phrase first. Edit here to tune the parser; no code changes needed.
+
+# Approved occasion synonym map (see the shared portfolio rules), plus plural forms.
+occasions:
+  ceremony: [wedding, weddings, ceremony, ceremonies]
+  work: [office, work]
+  casual: [weekend, weekends, everyday]
+  evening: [night out, party, parties, dinner, dinners]
+  sport: [gym, running]
+  travel: [trip, trips, holiday, holidays]
+
+genders:
+  women: [women, woman, "women's", womens, ladies, her, she, female]
+  men: [men, man, "men's", mens, him, he, male, guy, guys]
+
+categories:
+  top: [top, tops, tee, tees, t-shirt, t-shirts, tank, camisole, polo, polos]
+  shirt: [shirt, shirts, blouse, blouses, overshirt]
+  knitwear: [knitwear, sweater, sweaters, jumper, jumpers, cardigan, cardigans, rollneck, crewneck]
+  dress: [dress, dresses, gown]
+  skirt: [skirt, skirts]
+  trousers: [trousers, pants, chinos, leggings, shorts]
+  jeans: [jeans, denim]
+  outerwear: [jacket, jackets, coat, coats, blazer, blazers, trench, outerwear]
+  shoes: [shoes, sandals, boots, sneakers, trainers, loafers, heels, pumps, flats, espadrilles]
+  bag: [bag, bags, clutch, tote, backpack, weekender, duffel]
+  accessory: [accessory, accessories, scarf, scarves, belt, hat, sunglasses, tie, beanie, pocket square]
+
+# "may" is handled in code (only after "in", "early", "late", "mid", "this", "next"): it is also a verb.
+seasons:
+  SS: [summer, spring, march, april, june, july, august]
+  AW: [winter, autumn, fall, september, october, november, december, january, february]
