@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="240" viewBox="0 0 200 240" role="img" aria-label="Oxford Shirt, white">
+  <rect width="200" height="240" rx="12" fill="#F6F1E9"/>
+  <rect x="16" y="16" width="20" height="20" rx="10" fill="#FFFFFF" stroke="#1F1B24" stroke-opacity="0.25"/>
+  <g transform="translate(40 44)"><path d="M30,20 L50,12 L60,26 L70,12 L90,20 L106,58 L90,64 L88,108 L32,108 L30,64 L14,58 Z M60,26 L60,108" fill="#FFFFFF" stroke="#1F1B24" stroke-opacity="0.35" stroke-width="2" stroke-linejoin="round"/></g>
+  <text x="16" y="198" font-family="-apple-system, Segoe UI, Roboto, Arial, sans-serif" font-size="14" font-weight="600" fill="#1F1B24">Oxford Shirt</text>
+  <text x="16" y="220" font-family="-apple-system, Segoe UI, Roboto, Arial, sans-serif" font-size="12" fill="#1F1B24" fill-opacity="0.6">AN-0038 · shirt</text>
+</svg>
