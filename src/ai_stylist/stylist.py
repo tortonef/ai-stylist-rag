@@ -99,13 +99,9 @@ def build_messages(question: str, hits: list[Hit], look: Look | None) -> list[di
 
 
 def _constraints(q: Query) -> str:
-    parts = [*q.occasions]
-    if q.season:
-        parts.append(q.season)
-    if q.gender:
-        parts.append(q.gender)
-    parts += q.categories
-    return ", ".join(parts)
+    """E.g. 'work, AW (men)'."""
+    parts = [*q.occasions, *([q.season] if q.season else []), *q.categories]
+    return ", ".join(parts) + (f" ({q.gender})" if q.gender else "")
 
 
 def template_answer(q: Query, hits: list[Hit], look: Look | None) -> str:
@@ -115,7 +111,7 @@ def template_answer(q: Query, hits: list[Hit], look: Look | None) -> str:
         budget = f", within your €{q.budget:g} budget" if q.budget is not None else ""
         return (
             f"A complete look for {_constraints(q)}{budget}: {items}. "
-            f"Total €{look.total:g}. Each piece matches the occasion; open a card to see why."
+            f"Total €{look.total:g}. The tags under each card show which of your constraints it matches."
         )
     items = "; ".join(f"{h.product['name']} [{h.product['sku']}]" for h in hits)
     which = f" ({_constraints(q)})" if _constraints(q) else ""
