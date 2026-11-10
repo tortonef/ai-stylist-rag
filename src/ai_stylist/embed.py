@@ -12,6 +12,8 @@ import numpy as np
 
 os.environ.setdefault("HF_HUB_DISABLE_TELEMETRY", "1")
 os.environ.setdefault("HF_HUB_DISABLE_SYMLINKS_WARNING", "1")
+# The public model needs no token; hide the "set a HF_TOKEN" warning that looks like an error.
+os.environ.setdefault("HF_HUB_VERBOSITY", "error")
 
 # Files transformers needs; skips ONNX/OpenVINO exports and duplicate weight formats.
 ALLOW_PATTERNS = ["*.json", "vocab.txt", "model.safetensors"]
