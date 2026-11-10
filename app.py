@@ -150,7 +150,7 @@ def render(a: Answer) -> None:
         if a.error:
             st.warning(f"The LLM failed, showing the retrieval-only answer instead. ({a.error})")
         if a.hits:
-            cols = st.columns(min(len(a.hits), 4))
+            cols = st.columns(4)
             for i, h in enumerate(a.hits):
                 cols[i % len(cols)].markdown(card(h), unsafe_allow_html=True)
         if a.look:
@@ -174,6 +174,8 @@ for a in history:
 
 question = st.chat_input("e.g. What should I wear to a country wedding in May, under €300?")
 question = question or st.session_state.pop("pending", None)
+if not question and not history and "q" in st.query_params:  # shareable link: ?q=your+question
+    question = st.query_params["q"]
 if question:
     with st.chat_message("user"):
         st.write(question)
