@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title desc">
-  <!-- Shared portfolio banner layout. Per repo, change only: the accent color (#6B8F71), eyebrow number,
+  <!-- Shared portfolio banner layout. Per repo, change only: the accent color (#6B8F71),
        title, tagline lines and the motif group on the right. -->
   <title id="title">AI Stylist (RAG)</title>
   <desc id="desc">A conversational stylist that answers outfit questions using only real products from the catalog, with every recommendation traceable to a SKU, 100% locally.</desc>
@@ -14,12 +14,11 @@
   <rect width="10" height="320" class="accent"/>
 
   <!-- Text block -->
-  <text x="72" y="92" class="font accent" font-size="15" font-weight="600" letter-spacing="3">GENAI FOR FASHION · 03 / 03</text>
-  <text x="72" y="152" class="font ink" font-size="52" font-weight="700">AI Stylist</text>
+  <text x="72" y="125" class="font ink" font-size="52" font-weight="700">AI Stylist</text>
   <g class="font ink" font-size="20" fill-opacity="0.78">
-    <text x="72" y="204">Answer "what should I wear?" questions with complete outfits</text>
-    <text x="72" y="232">built only from real catalog products, every recommendation</text>
-    <text x="72" y="260">traceable to a SKU, 100% locally.</text>
+    <text x="72" y="177">Answer "what should I wear?" questions with complete outfits</text>
+    <text x="72" y="205">built only from real catalog products, every recommendation</text>
+    <text x="72" y="233">traceable to a SKU, 100% locally.</text>
   </g>
 
   <!-- Motif: a shopper's question -> answer grounded in catalog products, each tagged with its SKU -->
